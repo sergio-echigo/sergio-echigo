@@ -1,16 +1,18 @@
 ### Hi there 👋
+- trying to improve my cybersecurity skills and my computing knowledge 
+- currently working as .NET developer
+- fear and loathing in las vegas (band) 0.01% fan
+- interested on ruby and rust (is it some coincidence? something like c, c++, csharp...)
+- trying to exit vim?q:q?x!^Z^Z^ZType :qa! and press <Enter> to abandon all changes and exit Vim^Z
 
-<!--
-**arakakivl/arakakivl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ^Z
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+^Z
+
+
+
+
+[943]+ Stopped vim README.md
